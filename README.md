@@ -1,10 +1,28 @@
-# colab_python_introduction
+# Introduction à Python, NumPy et Matplotlib
 
-Notebook version of Python introduction 
+Ce depot contient des cahiers interactifs (notebooks) pour executer les exemples des cours:
 
-# Link
+- Python (Introduction) 
+- NumPy & Matplotlib 
 
-Open using 
+Ils peuvent être lus avec [Jupyter Notebook](https://jupyter.org/install). 
 
+- Installation 
 
-[Colab link](https://colab.research.google.com/github.com/ECE-Lyon/colab_python_introduction/blob/main/Introduction.ipynb)
+```bash
+python -m pip install notebook
+```
+- lancement du kernel Jupyter
+
+```bash
+jupyter-notebook
+```
+
+- Naviguez et ouvrez le fichier `*.ipynb`
+
+Ou bien directement avec [Google Colab](https://colab.research.google.com/)
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ECE-Lyon/colab_python_introduction/blob/main/introduction.ipynb) **Introduction** 
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ECE-Lyon/colab_python_introduction/blob/main/numpy.ipynb) **Numpy & Matplotlib**
+
+Fait avec :heart: par Eduardo Guzman Maldonado (2022)
