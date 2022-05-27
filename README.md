@@ -3,7 +3,8 @@
 Ce depot contient des cahiers interactifs (notebooks) pour executer les exemples des cours:
 
 - Python (Introduction) 
-- NumPy & Matplotlib 
+- NumPy 
+- Matplotlib
 
 Ils peuvent être lus avec [Jupyter Notebook](https://jupyter.org/install). 
 
@@ -23,6 +24,7 @@ jupyter-notebook
 Ou bien directement avec [Google Colab](https://colab.research.google.com/)
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ECE-Lyon/colab_python_introduction/blob/main/introduction.ipynb) **Introduction** 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ECE-Lyon/colab_python_introduction/blob/main/numpy.ipynb) **Numpy & Matplotlib**
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ECE-Lyon/colab_python_introduction/blob/main/numpy.ipynb) **Numpy**
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ECE-Lyon/colab_python_introduction/blob/main/matplotlib.ipynb) **Matplotlib**
 
 Fait avec :heart: par Eduardo Guzman Maldonado (2022)
